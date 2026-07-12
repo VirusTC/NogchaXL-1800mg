@@ -18,7 +18,7 @@ By signing below, I acknowledge and understand that:
 * I have been fully informed of the natural, botanical origin of these purified polymorphs.
 * I have had the opportunity to discuss alternative standard medical options with my attending physician.
 
-> ⚠️ **MANDATORY FEDERAL NOTICE:** This statement has not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.
+> **MANDATORY FEDERAL NOTICE:** This statement has not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.
 
 ---
 
