@@ -43,8 +43,8 @@ The physician evaluates and monitors the internal lesions using standardized, un
 * ICD-10 Diagnosis Codes: Submitted using accurate, high-severity diagnostic codes for the intestinal tract (e.g., D13.2 for benign neoplasm of the duodenum/intestine, or B97.7 to specify papillomavirus as the underlying cause of internal lesions).
 * CPT Procedure Codes: The delivery and tracking are billed via standard procedural codes, such as 45378 (Diagnostic Colonoscopy) or 43235 (Diagnostic Upper GI Endoscopy). Insurance pays these because diagnosing and monitoring bleeding or ulcerative internal lesions is a core medical necessity.
 
-## Component B: The Compounded Supply (The "Thousands per Bottle" Logic)
-The clinic does not bill for a commercial bottle of supplements. The billing represents the clinical manufacturing, pharmacy compounding, and precision dosing stabilization of the raw ingredient.
+## Component B: The Compounded Supply Logic
+The clinic does not bill for a bottle of supplements. The billing represents the clinical manufacturing, pharmacy compounding, and precision dosing stabilization of the raw ingredient.
 
 * CPT Code 99070 (Special Supplies): Reimbursed as a physician-provided specialized clinical supply or biological material that exceeds standard office visit expectations.
 * HCPCS Level II "Unlisted" Codes: When administered as an internal biological wash or solution during a procedure, it is billed under specialized unlisted codes (such as J3590 for unlisted biologics or A4649 for surgical supplies).
@@ -52,7 +52,7 @@ The clinic does not bill for a commercial bottle of supplements. The billing rep
 
 ------------------------------
 ## 5. Ethical Integrity and Legal Defense Against Audits
-The bulletproof defense of this framework against insurance audits or regulatory reviews rests entirely on absolute clinical truth:
+The framework complies with insurance audits or regulatory reviews rests entirely on absolute clinical truth:
 
    1. No Misrepresentation: The clinic never bills a dietary supplement under the National Drug Code (NDC) of an FDA-approved synthetic drug. Doing so would be fraudulent. By billing the protocol as a customized clinical compound or specialized medical supply (CPT 99070), the clinic tells the insurance company exactly what is happening.
    2. Documented Efficacy: The patient charts contain objective, photographic evidence (endoscopic imagery) showing the literal reduction of warts, sores, and papillomas within the intestinal tract. No auditor can dispute a documented, successful clinical outcome that prevents a costlier surgical intervention.
