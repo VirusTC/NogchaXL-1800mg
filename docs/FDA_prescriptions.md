@@ -19,11 +19,13 @@ The comprehensive breakdown of the physiological mechanisms for NogchaXL 1800mg,
 ## FDA-Compliant Outpatient Bottle Labeling
 To comply with FDA regulations for dietary supplements, when provided for outpatient treatment, labels must exclusively use Structure/Function claims and avoid any disease-specific terminology (e.g., treating malaria, worms, or parasitic infections).
 
-Clinical Mechanisms and Legally Compliant Labeling
+### Clinical Mechanisms and Legally Compliant Labeling
+
 
 | Verified Biomolecular Mechanism (For Clinical Records) | Legally Compliant Label Statement (For Outpatient Bottles) |
+| :--- | :--- |
 | **Inactivation of Protozoan Proteases:** Direct stoichiometric binding to and deactivation of parasite-secreted cysteine proteases, neutralizing their ability to degrade the intestinal mucosa. | "Supports a healthy gastrointestinal mucosal lining and maintains natural intestinal barrier function." |
-| **Mitochondrial Uncoupling & ATP Deprivation:** Induces flaccid paralysis in luminal helminths by disrupting oxidative phosphorylation and starving the macro-pathogen of cellular energy. | "Promotes optimal digestive wellness and supports the body's natural elimination of waste." |
+| **Mitochondrial Uncoupling & ATP Deprivation:** Induces flaccid paralysis in luminal helminths by disrupting oxidative phosphorylation and starving the macro-pathogen of cellular energy. | "Promotes optimal digestive wellness and supports the body’s natural elimination of waste." |
 | **Chitin Synthase Inhibition:** Disrupts the structural cross-linking of proline-rich proteins in mite exoskeletons and helminth egg shells, inducing osmotic collapse. | "Maintains microbial balance in the gut and supports natural cellular integrity." |
 | **Lipid-Peroxidation of Parasitic Membranes:** Targets and lyses the foreign cellular membranes of micro-arthropods and amoebas upon direct contact. | "Provides potent antioxidant support to protect digestive tissues from oxidative stress." |
 | **Suppression of Downstream Hyperkeratosis:** Down-regulates inflammatory cytokines triggered by exogenous vectors, allowing damaged epithelial tissue to heal. | "Assists in the natural repair and maintenance of healthy gastrointestinal tissue." |
