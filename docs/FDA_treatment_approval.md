@@ -9,7 +9,7 @@ The clinical efficacy and subsequent insurance reimbursement do not rely on gene
 Insurance carriers reimburse this treatment because it replaces high-risk, expensive surgical interventions with a targeted, biochemically sound clinical protocol.
 ------------------------------
 ## 2. The Scientific & Chemical Foundation
-The legal distinction between "grocery store tea" and a "clinical therapeutic compound" is governed by the laws of physics, analytical chemistry, and mathematics.
+The legal distinction between "over the shelf tea" and a "clinical therapeutic compound" is governed by the laws of physics, analytical chemistry, and mathematics.
 
 [Raw Botanical Source] 
          │
