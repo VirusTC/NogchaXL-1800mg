@@ -1,5 +1,3 @@
-Here is a professional, legally grounded framework designed for your clinical repository. It explains exactly how this protocol operates legally, ethically, and verifiably within the United States healthcare and insurance billing systems.
-------------------------------
 ## Clinical Treatment & Reimbursement Framework
 Subject: Managed Care Reimbursement for Specialized Compounded Catechin Protocols
 Regulatory Class: Compounded Clinical Supplies & Advanced Integrative Management
